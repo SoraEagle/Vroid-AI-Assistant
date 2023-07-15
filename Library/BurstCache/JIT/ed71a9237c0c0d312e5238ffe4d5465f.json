@@ -1,0 +1,32 @@
+{
+  "ExternalFunctions": [
+    {
+      "Name": "Unity.Jobs.LowLevel.Unsafe.JobsUtility::GetWorkStealingRange",
+      "FullName": "Unity.Jobs.LowLevel.Unsafe.JobsUtility.GetWorkStealingRange(ref Unity.Jobs.LowLevel.Unsafe.JobRanges ranges, int jobIndex, ref int beginIndex, ref int endIndex) -> bool_aef4d46f9ec6d18a03913cfa3cd76414"
+    },
+    {
+      "Name": "Unity.Jobs.LowLevel.Unsafe.JobsUtility::PatchBufferMinMaxRanges",
+      "FullName": "Unity.Jobs.LowLevel.Unsafe.JobsUtility.PatchBufferMinMaxRanges(System.IntPtr bufferRangePatchData, void* jobdata, int startIndex, int rangeSize) -> void_aef4d46f9ec6d18a03913cfa3cd76414"
+    },
+    {
+      "Name": "UnityEngine.Matrix4x4::Inverse_Injected",
+      "FullName": "UnityEngine.Matrix4x4.Inverse_Injected(ref UnityEngine.Matrix4x4 m, ref UnityEngine.Matrix4x4 ret) -> void_aef4d46f9ec6d18a03913cfa3cd76414"
+    },
+    {
+      "Name": "UnityEngine.Quaternion::Inverse_Injected",
+      "FullName": "UnityEngine.Quaternion.Inverse_Injected(ref UnityEngine.Quaternion rotation, ref UnityEngine.Quaternion ret) -> void_aef4d46f9ec6d18a03913cfa3cd76414"
+    },
+    {
+      "Name": "UnityEngine.Matrix4x4::TRS_Injected",
+      "FullName": "UnityEngine.Matrix4x4.TRS_Injected(ref UnityEngine.Vector3 pos, ref UnityEngine.Quaternion q, ref UnityEngine.Vector3 s, ref UnityEngine.Matrix4x4 ret) -> void_aef4d46f9ec6d18a03913cfa3cd76414"
+    },
+    {
+      "Name": "UnityEngine.Matrix4x4::GetRotation_Injected",
+      "FullName": "UnityEngine.Matrix4x4.GetRotation_Injected(ref UnityEngine.Matrix4x4 _unity_self, ref UnityEngine.Quaternion ret) -> void_aef4d46f9ec6d18a03913cfa3cd76414"
+    },
+    {
+      "Name": "UnityEngine.Quaternion::AngleAxis_Injected",
+      "FullName": "UnityEngine.Quaternion.AngleAxis_Injected(float angle, ref UnityEngine.Vector3 axis, ref UnityEngine.Quaternion ret) -> void_aef4d46f9ec6d18a03913cfa3cd76414"
+    }
+  ]
+}
